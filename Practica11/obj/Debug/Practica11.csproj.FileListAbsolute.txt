@@ -1,0 +1,13 @@
+C:\Users\licSistemas\source\repos\Practica11\Practica11\bin\Debug\Practica11.exe.config
+C:\Users\licSistemas\source\repos\Practica11\Practica11\bin\Debug\Practica11.exe
+C:\Users\licSistemas\source\repos\Practica11\Practica11\bin\Debug\Practica11.pdb
+C:\Users\licSistemas\source\repos\Practica11\Practica11\obj\Debug\Practica11.csprojAssemblyReference.cache
+C:\Users\licSistemas\source\repos\Practica11\Practica11\obj\Debug\Practica11.exe
+C:\Users\licSistemas\source\repos\Practica11\Practica11\obj\Debug\Practica11.pdb
+C:\Users\Mario H\Downloads\Practica11-20191105T224406Z-001\bin\Debug\Practica11.exe.config
+C:\Users\Mario H\Downloads\Practica11-20191105T224406Z-001\bin\Debug\Practica11.exe
+C:\Users\Mario H\Downloads\Practica11-20191105T224406Z-001\bin\Debug\Practica11.pdb
+C:\Users\Mario H\Downloads\Practica11-20191105T224406Z-001\obj\Debug\Practica11.csprojAssemblyReference.cache
+C:\Users\Mario H\Downloads\Practica11-20191105T224406Z-001\obj\Debug\Practica11.csproj.CoreCompileInputs.cache
+C:\Users\Mario H\Downloads\Practica11-20191105T224406Z-001\obj\Debug\Practica11.exe
+C:\Users\Mario H\Downloads\Practica11-20191105T224406Z-001\obj\Debug\Practica11.pdb
